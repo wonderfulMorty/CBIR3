@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Aug 02 22:40:51 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=CBIR3.jar
+manifest.mergeall=true
+manifest.mainclass=CBIR3.interface_main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
